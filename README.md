@@ -1,4 +1,4 @@
-- 👋 Hi, Ajeeth
+- 👋 Hi, I'm Ajeeth
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front-end web development
 - 💞️ I’m looking to collaborate on real time web application development
