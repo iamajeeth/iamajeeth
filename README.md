@@ -9,7 +9,7 @@
   <a href="https://codepen.io/ajeethcse" target="_blank"><img align="center" src="codepen.svg" alt="ajeethcse" height="30" width="40" /></a>
   
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamajeeth&theme=radical&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamajeeth&layout=compact&theme=radical">
 
 <!---
 iamajeeth/iamajeeth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
