@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Design and Development
 - 🌱 I’m currently learning Front-end Development
 - 💞️ I’m looking to collaborate on real time web application development
+- 😄 Pronouns: **He/Him**
 - 📫 Connect with me:<br><br>
   <div>
   <a href="https://linkedin.com/in/ajeethnatarajan" target="_blank"><img align="center" src="linkedin.svg" alt="ajeethnatarajan" height="30" width="40" /></a>
