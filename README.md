@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ajeeth
-- 👀 I’m interested in Web Design and Development
+- 👀 I’m interested in System Design and Development
 - 🌱 I’m currently learning Front-end Development
-- 💞️ I’m looking to collaborate on real time web application development
+- 💞️ I’m looking to collaborate on real time application development
 - 😄 Pronouns: **He/Him**
 - 📫 Connect with me:<br><br>
   <div>
